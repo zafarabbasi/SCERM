@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family>
+  <name gender="Male">
+    <firstname>Tom</firstname>
+    <lastname>Smith</lastname>
+  </name>
+  <name gender="Female">
+    <firstname>Dale</firstname>
+    <lastname>Smith</lastname>
+  </name>
+</family>

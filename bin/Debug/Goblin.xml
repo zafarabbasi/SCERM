@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	APT: Exposing APTs
+--><stix:STIX_Package
+	id="apt:package-e33ffe07-2f4c-48d8-b0af-ee2619d765cf"
+	version="1.2"
+
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:marking="http://data-marking.mitre.org/Marking-1"
+	xmlns:terms="http://data-marking.mitre.org/extensions/MarkingStructure#Terms_Of_Use-1"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2" 
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:AddressObject="http://cybox.mitre.org/objects#AddressObject-2"
+	xmlns:URIObject="http://cybox.mitre.org/objects#URIObject-2"
+	xmlns:LinkObject="http://cybox.mitre.org/objects#LinkObject-1"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:report="http://stix.mitre.org/Report-1"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2" 
+     xmlns:incident="http://stix.mitre.org/Incident-1"
+	xmlns:et="http://stix.mitre.org/ExploitTarget-1"
+
+
+	xmlns:ttp="http://stix.mitre.org/TTP-1"
+	xmlns:campaign="http://stix.mitre.org/Campaign-1"
+	xmlns:threat-actor="http://stix.mitre.org/ThreatActor-1"
+	xmlns:stix-ciq="http://stix.mitre.org/extensions/Identity#CIQIdentity3.0-1"
+	xmlns:xnl="urn:oasis:names:tc:ciq:xnl:3"
+	xmlns:xal="urn:oasis:names:tc:ciq:xal:3" 
+	xmlns:xpil="urn:oasis:names:tc:ciq:xpil:3"
+	xmlns:lmco="lockheedmartin.com" 
+	xmlns:apt="http://www.apt.com"
+	xmlns:mitre="http://www.mitre.org"
+	xmlns:coa="http://stix.mitre.org/CourseOfAction-1" 	
+	xmlns:ta="http://stix.mitre.org/ThreatActor-1" 
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:attack_pattern = "http://stix.mitre.org/extensions/AP#CAPEC2.7-1"
+
+	xsi:schemaLocation="
+		http://stix.mitre.org/XMLSchema/extensions/identity/ciq_identity/1.1/ciq_identity.xsd
+		http://cybox.mitre.org/objects#AddressObject-2 
+		http://cybox.mitre.org/XMLSchema/objects/Address/2.1/Address_Object.xsd
+		http://cybox.mitre.org/objects#URIObject-2 
+		http://cybox.mitre.org/XMLSchema/objects/URI/2.1/URI_Object.xsd		
+		http://cybox.mitre.org/objects#LinkObject-1 
+		http://cybox.mitre.org/XMLSchema/objects/Link/1.1/Link_Object.xsd
+		http://stix.mitre.org/Indicator-2 
+		http://stix.mitre.org/XMLSchema/indicator/2.2/indicator.xsd
+		http://stix.mitre.org/Campaign-1 
+		http://stix.mitre.org/XMLSchema/campaign/1.2/campaign.xsd
+		http://stix.mitre.org/ThreatActor-1 
+		http://stix.mitre.org/XMLSchema/threat_actor/1.2/threat_actor.xsd
+		http://stix.mitre.org/TTP-1 
+		http://stix.mitre.org/XMLSchema/ttp/1.2/ttp.xsd
+		http://stix.mitre.org/default_vocabularies-1 
+		http://stix.mitre.org/XMLSchema/default_vocabularies/1.2.0/stix_default_vocabularies.xsd
+		http://cybox.mitre.org/default_vocabularies-2 
+		http://cybox.mitre.org/XMLSchema/default_vocabularies/2.1/cybox_default_vocabularies.xsd
+		http://stix.mitre.org/extensions/Identity#CIQIdentity3.0-1 
+		http://stix.mitre.org/XMLSchema/extensions/identity/ciq_3.0/1.2/ciq_3.0_identity.xsd
+		http://stix.mitre.org/stix-1 http://stix.mitre.org/XMLSchema/core/1.2/stix_core.xsd
+		http://stix.mitre.org/Report-1 http://stix.mitre.org/XMLSchema/report/1.0/report.xsd
+		http://stix.mitre.org/Incident-1 
+	    	http://stix.mitre.org/XMLSchema/common/1.2/stix_common.xsd
+
+		http://data-marking.mitre.org/extensions/MarkingStructure#Terms_Of_Use-1 						
+		http://stix.mitre.org/XMLSchema/extensions/marking/terms_of_use/1.1/terms_of_use_marking.xsd
+		http://stix.mitre.org/XMLSchema/extensions/attack_pattern/capec_2.7/1.0.1/capec_2.7_attack_pattern.xsd">
+
+	
+	<stix:STIX_Header>
+
+		<stix:Handling>
+			<marking:Marking>
+				<marking:Controlled_Structure>//node() | //@*</marking:Controlled_Structure>
+				<!-- Apply following marking to entire document -->
+				<marking:Marking_Structure xsi:type="terms:TermsOfUseMarkingStructureType">
+					<terms:Terms_Of_Use>APT1: Exposing One of China's Cyber Espionage Units (the "APT1 Report") is copyright 2013 by apt Corporation and can be downloaded at intelreport.apt.com.  This XML file using the STIX standard was created by The MITRE Corporation using the content of the APT1 Report with apt's permission.  apt is not responsible for the content of this file.</terms:Terms_Of_Use>
+				</marking:Marking_Structure>
+			</marking:Marking>
+		</stix:Handling>
+
+		<stix:Information_Source>
+
+			<stixCommon:Identity>
+				<stixCommon:Name>MITRE</stixCommon:Name>
+			</stixCommon:Identity>
+
+			<stixCommon:Role xsi:type="stixVocabs:InformationSourceRoleVocab-1.0">Transformer/Translator</stixCommon:Role>
+			
+			<stixCommon:Contributing_Sources>
+				<stixCommon:Source>
+					<stixCommon:Identity>
+						<stixCommon:Name>apt</stixCommon:Name>
+					</stixCommon:Identity>
+					<stixCommon:Role xsi:type="stixVocabs:InformationSourceRoleVocab-1.0">Initial Author</stixCommon:Role>
+					<stixCommon:Time>
+						<cyboxCommon:Produced_Time precision="day">2013-02-19T00:00:00Z</cyboxCommon:Produced_Time>
+					</stixCommon:Time>
+				</stixCommon:Source>
+			</stixCommon:Contributing_Sources>
+			
+			<stixCommon:Time>
+				<cyboxCommon:Produced_Time precision="day">2014-01-16T00:00:00Z</cyboxCommon:Produced_Time>
+			</stixCommon:Time>
+			
+			<stixCommon:References>
+				<stixCommon:Reference>http://intelreport.apt.com/apt_APT1_Report.pdf</stixCommon:Reference>
+			</stixCommon:References>
+
+		</stix:Information_Source>
+
+	</stix:STIX_Header>
+
+	
+<stix:Campaigns>
+
+%/// Campaign TG-3390 ///////////////////////////////////////////////////////////////////
+<stix:Campaign id="apt:campaign_14" xsi:Type = "campaign:CampaignType">
+<campaign:Title>TG-3390</campaign:Title>
+
+<campaign:Related_TTPs>
+
+ <campaign:Related_TTP>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:TTP idref="apt:ttp_RemoteAccessTrojan" /> 
+</campaign:Related_TTP>
+
+ <campaign:Related_TTP>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:TTP idref="apt:ttp_SpearPhishing" /> 
+</campaign:Related_TTP>
+
+<!-- <campaign:Related_TTP>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:TTP idref="apt:ttp_SWC" /> 
+</campaign:Related_TTP>
+ -->
+</campaign:Related_TTPs> 
+
+<!-- <campaign:Related_Incidents>
+
+<campaign:Related_Incident>
+<stixCommon:Relationship>Uses Malware</stixCommon:Relationship>
+<stixCommon:Incident idref="apt:incident_Victim-USMilitary" />
+</campaign:Related_Incident>
+
+<campaign:Related_Incident>
+<stixCommon:Relationship>Uses Malware</stixCommon:Relationship>
+<stixCommon:Incident idref="apt:incident_Victim-EuropeanDroneCompany" />
+</campaign:Related_Incident>
+
+<campaign:Related_Incident>
+<stixCommon:Relationship>Uses Malware</stixCommon:Relationship>
+<stixCommon:Incident idref="apt:incident_Victim-FranceEnergyManagement" />
+</campaign:Related_Incident>
+
+</campaign:Related_Incidents>
+ -->
+
+<!-- <campaign:Related_Indicators>
+
+<campaign:Related_Indicator>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:Indicator idref="apt:indicator_Protocol_3390"/>
+</campaign:Related_Indicator>
+
+
+<campaign:Related_Indicator>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:Indicator idref="apt:indicator_IP_3390"/>
+</campaign:Related_Indicator>
+
+<campaign:Related_Indicator>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:Indicator idref="apt:indicator_DNS_3390"/>
+</campaign:Related_Indicator>
+
+<campaign:Related_Indicator>
+<stixCommon:Relationship> Uses Malware</stixCommon:Relationship>
+<stixCommon:Indicator idref="apt:indicator_HASHMD5_3390"/>
+</campaign:Related_Indicator>
+
+
+</campaign:Related_Indicators>
+ -->
+
+<!-- <campaign:Attribution>
+<campaign:Attributed_Threat_Actor>
+<stixCommon:Threat_Actor idref="apt:threatactor_China" /> 
+</campaign:Attributed_Threat_Actor>
+</campaign:Attribution>
+ -->
+</stix:Campaign>
+
+</stix:Campaigns>
+
+%/// TTPs //////////////////////////////////////////////////////////////
+ <stix:TTPs>
+
+ <stix:TTP id="apt:ttp_RemoteAccessTrojan" xsi:Type ="ttp:TTPType">
+<ttp:Title>Remote Access</ttp:Title>
+</stix:TTP>
+
+<stix:TTP id="apt:ttp_SpearPhishing" xsi:Type ="ttp:TTPType">
+<ttp:Title>Spear Phishing</ttp:Title>
+  <ttp:Exploit_Targets>
+      <stixCommon:Exploit_Target idref="apt:exploit_CVE-SpearPhishing-1"/>
+   </ttp:Exploit_Targets>
+</stix:TTP>
+
+<!-- <stix:TTP id="apt:ttp_SWC" xsi:Type ="ttp:TTPType">
+<ttp:Title>Stratagic Web Compromise</ttp:Title>
+</stix:TTP>
+ -->
+
+</stix:TTPs>
+
+%/// Exploits ////////////////////////////////////////////////////////////////////////////////////////
+<stix:Exploit_Targets>
+<stixCommon:Exploit_Target id="apt:exploit_CVE-SpearPhishing-1"  xsi:type="et:ExploitTargetType">
+    <et:Title>Emails having Attachments</et:Title>
+        <et:Vulnerability>
+             <et:CVE_ID>CVE-SpearPhishing-EmailAttachment</et:CVE_ID>
+        </et:Vulnerability>
+		<et:Potential_COAs>
+			 <et:Potential_COA>
+				 <stixCommon:Course_Of_Action idref="coa-exploit-CVE-SpearPhishing-1"/>
+			 </et:Potential_COA>
+			 <et:Potential_COA>
+				 <stixCommon:Course_Of_Action idref="coa-exploit-CVE-SpearPhishing-2"/>
+			 </et:Potential_COA>
+			 <et:Potential_COA>
+				 <stixCommon:Course_Of_Action idref="coa-exploit-CVE-SpearPhishing-3"/>
+			 </et:Potential_COA>
+		</et:Potential_COAs>    
+</stixCommon:Exploit_Target>
+ </stix:Exploit_Targets>
+
+
+%/// Incidents //////////////////////////////////////////////////////////////////////////////
+<!-- <stix:Incidents>
+
+<stix:Incident id="apt:incident_Victim-USMilitary" xsi:type='incident:IncidentType' version="1.2">
+<incident:Title>US Military</incident:Title> 
+</stix:Incident>
+
+<stix:Incident id="apt:incident_Victim-FranceEnergyManagement" xsi:type='incident:IncidentType' version="1.2">
+<incident:Title>France Energy Management</incident:Title> 
+</stix:Incident>
+
+<stix:Incident id="apt:incident_Victim-EuropeanDroneCompany" xsi:type='incident:IncidentType' version="1.2">
+<incident:Title>European Drone Company</incident:Title> 
+</stix:Incident>
+
+</stix:Incidents>
+ -->
+
+%/// Indicators ///////////////////////////////////////////////////////////////////////////////
+
+<stix:Indicators>
+
+
+
+<stix:Indicator id="apt:indicator_Hash_3390" xsi:Type="indicator:IndicatorType">
+<indicator:Title>Hash Watchlist</indicator:Title> 
+<indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.0"> </indicator:Type>
+<indicator:Observable idref="apt:observable-Hash-1"/> 
+<indicator:Observable idref="apt:observable-Hash-2"/> 
+	<indicator:Suggested_COAs>
+		<indicator:Suggested_COA>
+			<stixCommon:Course_Of_Action idref="coa-Hash-1"/>
+		</indicator:Suggested_COA>
+		<indicator:Suggested_COA>
+			<stixCommon:Course_Of_Action idref="coa-Hash-2"/>
+		</indicator:Suggested_COA>
+		<indicator:Suggested_COA>
+			<stixCommon:Course_Of_Action idref="coa-Hash-3"/>
+		</indicator:Suggested_COA>
+		<indicator:Suggested_COA>
+			<stixCommon:Course_Of_Action idref="coa-Hash-4"/>
+		</indicator:Suggested_COA>
+	</indicator:Suggested_COAs>  
+</stix:Indicator>
+
+<!-- <stix:Indicator id="apt:indicator_IP_3390" xsi:Type="indicator:IndicatorType">
+<indicator:Title>IP Watchlist</indicator:Title> 
+<indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.0"> </indicator:Type>
+<indicator:Observable idref="apt:observable-IP-1732311124"/> 
+<indicator:Observable idref="apt:observable-IP-1859222281"/> 
+</stix:Indicator>
+ -->
+<!-- <stix:Indicator id="apt:indicator_DNS_3390" xsi:Type="indicator:IndicatorType">
+<indicator:Title>DNS Watchlist</indicator:Title> 
+<indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.0"> </indicator:Type>
+<indicator:Observable idref="apt:observable-DNS-OmyName@gmailCom"/> 
+<indicator:Observable idref="apt:observable-DNS-NewSoft2Com"/> 
+<indicator:Observable idref="apt:observable-DNS-adobesysCom"/> 
+</stix:Indicator>
+ -->
+<!-- <stix:Indicator id="apt:indicator_HASHMD5_3390" xsi:Type="indicator:IndicatorType">
+<indicator:Title>HASH Watchlist</indicator:Title> 
+<indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.0"> </indicator:Type>
+<indicator:Observable idref="apt:observable-HASHMD5-3BEA073FA50B62C561CEDD9619CD8425"/> 
+</stix:Indicator>
+ -->
+
+ </stix:Indicators>
+
+<!-- %/// Threat Actors ///////////////////////////////////////////////////////////////////////////////
+<stix:Threat_Actors>
+<stix:Threat_Actor id="apt:threatactor_China" xsi:type="ta:ThreatActorType">
+<ta:Title>China</ta:Title>
+</stix:Threat_Actor>
+</stix:Threat_Actors>
+ -->
+
+%/// Course Of Action ///////////////////////////////////////////////////////////////////////////
+
+<stix:Courses_Of_Action>
+
+<stix:Course_Of_Action id="coa-Hash-1" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Block IoC at Firewall</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Response</coa:Stage>
+</stix:Course_Of_Action>
+
+<stix:Course_Of_Action id="coa-Hash-2" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Block IoC at IDS</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Response</coa:Stage>
+</stix:Course_Of_Action>
+
+<stix:Course_Of_Action id="coa-Hash-3" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Block IoC at Web Gateways</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Response</coa:Stage>
+</stix:Course_Of_Action>
+
+<stix:Course_Of_Action id="coa-Hash-4" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Block IoC at Routers</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Response</coa:Stage>
+</stix:Course_Of_Action>
+
+<stix:Course_Of_Action id="coa-exploit-CVE-SpearPhishing-1" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Use up-to-date OS</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Remedy</coa:Stage>
+</stix:Course_Of_Action>
+
+<stix:Course_Of_Action id="coa-exploit-CVE-SpearPhishing-2" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Use up-to-date Application</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Remedy</coa:Stage>
+</stix:Course_Of_Action>
+
+<stix:Course_Of_Action id="coa-exploit-CVE-SpearPhishing-3" xsi:type="coa:CourseOfActionType" version="1.2">
+     <coa:Title>Use up-to-date Antivirus</coa:Title>
+     <coa:Stage xsi:type="stixVocabs:COAStageVocab-1.0">Remedy</coa:Stage>
+</stix:Course_Of_Action>
+
+</stix:Courses_Of_Action>
+
+ 
+ 
+ 
+%///  Observable ///////////////////////////////////////////////////////////////////////////////
+
+<cybox:Observables cybox_major_version="2" cybox_minor_version="0" cybox_update_version="1">
+
+<cybox:Observable id="apt:observable-Hash-1">
+<cybox:Title>Hash - 1d8ad2bf967aff93c713a729d5e9447700a236bde1af616bbe6f51e21bdad8c5</cybox:Title> 
+</cybox:Observable>
+
+<cybox:Observable id="apt:observable-Hash-2">
+<cybox:Title>Hash - 3720c608b82dc52f2f6099bd0d6b30701c8689f5ae6e8249f7a04964b2970ec4</cybox:Title> 
+</cybox:Observable>
+
+
+</cybox:Observables>
+ 
+
+</stix:STIX_Package>
+

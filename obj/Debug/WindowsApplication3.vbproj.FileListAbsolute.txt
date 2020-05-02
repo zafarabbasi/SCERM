@@ -1,0 +1,103 @@
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\zia\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\18_____Paper\1_______Paper Writing\13______Paper in Latex\1_____Ranker\12____Codes\XML Parsing\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\2_____STIX Parser\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\3_____STIX Parser\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\4_____STIX Ranker\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\5_____STIX Ranker\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\1____Parser\XML Parsing\6_____STIX Ranker\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\7_____STIX Ranker\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\8_____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\8_____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\8_____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\8_____STIX Ranker\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\obj\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\bin\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\bin\Debug\WindowsApplication3.pdb
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\bin\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\obj\Debug\WindowsApplication3.Form1.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\obj\Debug\WindowsApplication3.Resources.resources
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\9_____STIX Ranker\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\10____STIX Ranker\bin\Debug\WindowsApplication3.exe.config
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\10____STIX Ranker\obj\Debug\WindowsApplication3.exe
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\10____STIX Ranker\obj\Debug\WindowsApplication3.xml
+E:\PhD Corse Work\8     PhD Research\6_____Malware\0____Paper\2______Second Paper\17_____StixGen\Project\3____Parser and Ranker New\XML Parsing\10____STIX Ranker\obj\Debug\WindowsApplication3.pdb
